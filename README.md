@@ -38,8 +38,6 @@ The AR Gallery App is an immersive augmented reality application that allows use
 4. **Experience 3D Sound:**
    - The app includes 3D sound, so ensure you are in a quiet environment to fully enjoy the immersive audio experience.
 
-## Video Demo
-Watch the AR Gallery App in action: [Link to Video Demo](#)
 
 ## Benefits
 - **Immersive Experience:** Combines AR with 3D sound and animated characters to create a fully immersive and educational experience.
