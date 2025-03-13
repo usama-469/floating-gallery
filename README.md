@@ -4,14 +4,18 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Video Demo](#video-demo)
 - [Benefits](#benefits)
 - [Tools Used](#tools-used)
 - [Requirements](#requirements)
 
 
+https://github.com/user-attachments/assets/2bcce3be-51e0-4247-b659-50ae2bfee65e
+
+
+
 ## Introduction
 The AR Gallery App is an immersive augmented reality application that allows users to experience an animated gallery in the real world. Using markerless tracking, the app places the gallery's origin on the ground and calibrates it accordingly. Users can interact with various animated items in the gallery by touching, moving, and rotating them on their smartphones. When an item is selected, an animated character appears to explain the scene, enhanced with 3D sound for a fully immersive experience. The app is built with Unity 2022.3.6f1 and Lean Touch, and is compatible with both iOS and Android devices.
+
 
 ## Features
 - **Markerless Tracking:** Automatically place and calibrate the gallery on the real world ground without the need for markers.
